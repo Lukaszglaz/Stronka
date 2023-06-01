@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    background-color: $colorDarkGray;
+    overflow: hidden;
+}
+
+#wrapper {
+    box-sizing: border-box;
+    position: relative;
+}
+
+.image-navigate {
+    display: none;
+}
